@@ -1,0 +1,66 @@
+program {
+
+	set_rgba 250,250,250,200;
+	turn_rt 45;
+	move_fw 100;
+	turn_rt 45;
+	move_fw 200;
+	set_rgba 0, 68, 255,255;
+	turn_lt 90;
+	move_fw 150;
+	set_rgba 0, 255, 6, 255;
+	turn_rt 90;
+	move_fw 100;
+	turn_rt 90;
+	set_rgba 255,255,0,255;
+	move_fw 150;
+	turn_lt 90;
+	move_fw 100;
+	set_rgba 255,0,255,255;
+	turn_lt 90;
+	move_fw 250;
+	set_rgba 255,255,255,255;
+	turn_lt 90;
+	move_fw 250;
+	turn_lt 90;
+	set_rgba 255,51,0,255;
+	move_fw 150;
+	turn_rt 90;
+	set_rgba 255,81,97,255;
+	move_fw 100;
+	turn_rt 90;
+	set_rgba 0,150,230,255;
+	move_fw 150;
+	turn_lt 90;
+	set_rgba 244,0,15,255;
+	move_fw 50;
+	turn_lt 90;
+	move_fw 250;
+	move_bk 250;
+	set_rgba 0,0,0,255;
+	move_bk 150;
+	set_rgba 210,210,210,255;
+	move_bk 250;
+	turn_rt 90;
+	set_rgba 45,80,186,255;
+	move_bk 400;
+	turn_rt 90;
+	set_rgba 88,164,200,250;
+	move_bk 250;
+	turn_rt 90;
+	set_rgba 230,100,45,240;
+	move_bk 400;
+	turn_rt 135;
+	move_bk 90;
+	turn_rt 45;
+	set_rgba 255,71,20,255;
+	move_bk 280;
+	turn_rt 270;
+	move_bk 120;
+	turn_lt 90;
+	move_bk 280;
+	turn_lt 90;
+	move_bk 120;
+	
+	
+}
