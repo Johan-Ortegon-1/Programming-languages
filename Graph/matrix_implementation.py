@@ -1,3 +1,4 @@
+#This doe come from: https://www.educative.io/edpresso/how-to-implement-a-graph-in-python
 # Add a vertex to the set of vertices and the graph
 def add_vertex(v):
   global graph
