@@ -66,3 +66,6 @@ add_edge(3, 4, 4)
 add_edge(4, 1, 5)
 print_graph()
 print("Internal representation: ", graph)
+for i in graph:
+    print(i)
+    print()
